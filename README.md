@@ -1,5 +1,5 @@
 <h1 align="center">:whale2: Orca</h1>
-<div align="center">A free and open-source Roblox script hub</div>
+<div align="center">A free and open-source Roblox script hub reforked</div>
 <br>
 <div align="center">
 	<a href="https://github.com/richie0866/orca/actions"><img src="https://github.com/richie0866/orca/actions/workflows/eslint.yaml/badge.svg" alt="ESLint Status" /></a>
@@ -23,21 +23,11 @@ When run with auto-execution, Orca will start minimized by default.
 
 ### :pushpin: Latest release
 
-Runs the latest release build of Orca.
+Runs the latest release build of Orca Reforked.
 
 ```lua
 loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua")
-)()
-```
-
-### :construction: Nightly snapshot
-
-Runs a snapshot of new updates we have not published yet. You will get new features earlier, but they may be unstable.
-
-```lua
-loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/snapshot.lua")
+  game:HttpGetAsync("https://raw.githubusercontent.com/MakeSSB1GreatAgain/orca/master/public/latest.lua")
 )()
 ```
 
@@ -51,8 +41,8 @@ The **Home** page has a handful of intuitive information and action cards.
 
 - :blush: **Profile** - You, and some actions that modify your character.
 
-  - :radio_button: **Sliders** - Flight, walk speed, and jump height
-  - :radio_button: **Buttons** - Refresh, ghost, godmode, or freecam
+  - :radio_button: **Sliders** - Flight, walk speed, and jump height -- Updated To 5000 Studs Each Slider
+  - :radio_button: **Buttons** - Refresh, ghost, godmode, or freecam 
 
 - :desktop_computer: **Server** - Your server, and options to rejoin or server hop. Tap again to cancel.
 
@@ -71,11 +61,11 @@ The **Apps** page acts as a hub for general and miscellaneous features.
 
 ### :newspaper: Scripts
 
-The **Scripts** page is a small collection of community-favorites you should try.
+The **Scripts** page is a small collection of community-favorites you should try; Replaced some scripts due to outdated unopening scripts/unsupported to solara
 
 - :books: **Solaris** - https://solarishub.dev
-- :books: **V.G Hub** - https://github.com/1201for
-- :books: **EvoV2** - https://projectevo.xyz
+- :books: **FpsBooster** - https://github.com/fuckusfm
+- :books: **Chat Filter Bypass** - https://scriptblox.com/u/YTeber112
 - :shield: **CMD-X** - https://github.com/CMD-X
 - :shield: **Infinite Yield** - https://github.com/EdgeIY
 - :mag_right: **Dex Explorer** - https://github.com/LorekeeperZinnia
@@ -97,3 +87,4 @@ The **Options** page lets you configure theming and UI performance.
 - :white_check_mark: ScriptWare
 - :white_check_mark: Synapse X
 - :white_check_mark: Krnl
+- - :white_check_mark: Solera
