@@ -27,7 +27,7 @@ Runs the latest release build of Orca Reforked.
 
 ```lua
 loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/MakeSSB1GreatAgain/orca/master/public/latest.lua")
+  [game:HttpGetAsync("https://raw.githubusercontent.com/MakeSSB1GreatAgain/orca/master/public/latest.lua")](https://raw.githubusercontent.com/MakeSSB1GreatAgain/OrcaFork22/master/public/latest.lua)
 )()
 ```
 
