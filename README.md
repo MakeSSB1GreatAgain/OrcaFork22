@@ -11,7 +11,7 @@
 
 **Orca** is a **general-purpose** Roblox script hub designed to make convenient tasks **easy** and **satisfying**.
 
-Use many different **action cards** on the [**Home**](https://github.com/MakeSSB1GreatAgain/orca#house-home) and [**Apps**](https://github.com/MakeSSB1GreatAgain/orca#iphone-apps) page, or check out what we have featured on the [**Scripts**](https://github.com/MakeSSB1GreatAgain/orca#newspaper-scripts) page.
+Scroll down  **more** to find the replaced game cards.
 
 Press `K` to open or close Orca. For the best experience, a 1080p monitor or above is recommended!
 
