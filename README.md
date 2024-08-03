@@ -61,7 +61,7 @@ The **Apps** page acts as a hub for general and miscellaneous features.
 
 The **Scripts** page is a small collection of community-favorites you should try; Replaced some scripts due to outdated unopening scripts/unsupported to solara
 
-- :books: **Solaris** - https://solarishub.dev
+- :books: **R indevelopment** - needsfixing
 - :books: **FpsBooster** - https://github.com/RIP666
 - :books: **Chat Filter Bypass** - https://scriptblox.com/u/YTeber112
 - :shield: **CMD-X** - https://github.com/CMD-X
