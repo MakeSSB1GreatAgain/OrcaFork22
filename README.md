@@ -26,9 +26,7 @@ When run with auto-execution, Orca will start minimized by default.
 Runs the latest release build of Orca Reforked.
 
 ```lua
-loadstring(
- loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/MakeSSB1GreatAgain/OrcaFork22/master/public/latest.lua"))()
-)()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/MakeSSB1GreatAgain/OrcaFork22/master/public/latest.lua"))()
 ```
 
 &nbsp;
