@@ -86,3 +86,4 @@ The **Options** page lets you configure theming and UI performance.
 - :white_check_mark: Synapse X
 - :white_check_mark: Krnl
 - :white_check_mark: Solera
+- :white_check_mark: Wave
